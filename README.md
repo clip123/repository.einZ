@@ -1,7 +1,7 @@
 # Ein test Kodi Repositor[[https://eintamil.github.io/]](https://eintamil.github.io/)
 
 #### Enable Installation of add-ons from unknown sources:
-* Go to "System Settings" > "System" > "Add-ons"
+* Go to "System Settings""System" > "Add-ons"
 * Enable "Unknown sources"
 * Click "Yes"
 
