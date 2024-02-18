@@ -1,4 +1,4 @@
-# Ein test Kodi matrixRepositor[[https://eintamil.github.io/]](https://eintamil.github.io/)
+# Ein test Kodi matrix v Repositor[[https://eintamil.github.io/]](https://eintamil.github.io/)
 
 #### Enable Installation of add-ons from unknown sources:
 * Go to "System Settings""System" > "Add-ons"
