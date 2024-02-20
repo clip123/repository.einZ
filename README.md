@@ -2,7 +2,7 @@
 
 #### Enable Installation of add-ons from unknown sources:
 * Go to "System Settings""System" > "Add-ons"
-* Enable "Unknown sources"
+* Enable "Unkno sources"
 * Click "Ye
 
 #### Steps to add source:
