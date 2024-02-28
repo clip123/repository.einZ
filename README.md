@@ -3,7 +3,7 @@
 #### Enable Installation of add-ons from unknown sources:
 * Go to "System Settings""System" > "Add-ons"
 * Enable "Un
-* Click "
+* Click "add ytube
 
 #### Steps to add source:
 * Go to "System Settings" > "File Manager" > "Add Source"
