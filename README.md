@@ -1,6 +1,6 @@
 # Ein test Kodi matr v Repositor https://eintamil.github.io/]](https://eintamil
 #### Enable Installation of add-ons from unknown sources:
-* Go to "System Settings""System" > "Add-ons"
+* Go to "Syst Settings""System" > "Add-ons"
 * Enable "Un
 * Click "add ytube
 
